@@ -29,6 +29,9 @@ var fun = function lang(l) {
   return true;
 }
 ```
+```js
+var print =("hello iam here")
+```
 
 ```ruby
 # Ruby code with syntax highlighting
