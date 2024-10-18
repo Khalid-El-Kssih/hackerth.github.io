@@ -8,7 +8,9 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 There should be whitespace between paragraphs.
 <nav>
-    [Home](index.html) | [About](about.html) | [Projects](projects.html)
+    <a href="{{ site.baseurl }}/">Home</a>
+    <a href="{{ site.baseurl }}/about.html">About</a>
+    <a href="{{ site.baseurl }}/projects.html">Projects</a>
 </nav>
 
 
