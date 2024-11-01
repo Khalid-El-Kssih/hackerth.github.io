@@ -2,9 +2,9 @@
 layout: default
 ---
 
-man this suck i am tierd of figuing this up i am lost there is a lot to know , will at least there is somthing to learn , what a good turn
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+{{man this suck i am tierd of figuing this up i am lost there is a lot to know , will at least there is somthing to learn , what a good turn | upcase }}
 
 [Link to another page](./another-page.html).
 
